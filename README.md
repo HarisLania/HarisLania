@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Haris 👋</h1>
-<h3 align="center">Full-Stack Engineer — Angular · Django REST · .NET Core · Flutter · Figma</h3>
+<h3 align="center">Full-Stack Engineer (Angular · Django REST · .NET Core · Flutter · Figma)</h3>
 
 <p align="center">
   Building smart ordering systems by day (Opaala, Dubai) · Freelancing full-stack products on the side
@@ -51,26 +51,16 @@
 
 ### 📌 Featured Projects
 
-**[Slotify](https://github.com/HarisLania/slotify)** — Booking & scheduling platform with a custom slot-availability engine, JWT auth, and multi-tenancy.
-🔗 [Live app](https://slotify-taupe.vercel.app/) · [API docs](https://slotify-backend-390f.onrender.com/api/docs/)
+**[Slotify](https://slotify-taupe.vercel.app/)**: Booking & scheduling platform with a custom slot-availability engine, JWT auth, and multi-tenancy.
+🔗 [API docs](https://slotify-backend-390f.onrender.com/api/docs/)
 
-**[Tayn](https://github.com/HarisLania/tayn)** — Meal subscription platform with Stripe billing, built end-to-end.
-🔗 [Live app](https://tayn.vercel.app/) · [API docs](https://tayn-backend.onrender.com/api/docs/)
+**[Tayn](https://tayn.vercel.app/)**: Meal subscription platform with Stripe billing, built end-to-end.
+🔗 [API docs](https://tayn-backend.onrender.com/api/docs/)
 
-**[TravelGuide](https://github.com/HarisLania/travelguide-frontend)** · [backend](https://github.com/HarisLania/travelguide-backend) — Travel guide platform, full-stack.
-🔗 [Live app](https://travel-guide-frontend-flax.vercel.app/)
+**[BookClub](https://book-club-frontend-sigma.vercel.app/)**: Book club / community platform, full-stack.
+🔗 [API docs](https://bookclub-backend-dkmh.onrender.com/)
 
-**[BookClub](https://github.com/HarisLania/bookclub-frontend)** · [backend](https://github.com/HarisLania/bookclub-backend) — Book club / community platform, full-stack.
-🔗 [Live app](https://book-club-frontend-sigma.vercel.app/) · [API](https://bookclub-backend-dkmh.onrender.com/)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarisLania&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisLania&layout=compact&hide_border=true" height="165" />
-</p>
+**[TravelGuide](https://travel-guide-frontend-flax.vercel.app/)**: Travel guide platform  user interface.
 
 ---
 
